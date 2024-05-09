@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Kasino-0.1";
 const contentToCache = [
-    "Build/WebBuild.loader.js",
-    "Build/WebBuild.framework.js.unityweb",
-    "Build/WebBuild.data.unityweb",
-    "Build/WebBuild.wasm.unityweb",
+    "Build/Webbuild.loader.js",
+    "Build/Webbuild.framework.js.unityweb",
+    "Build/Webbuild.data.unityweb",
+    "Build/Webbuild.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
